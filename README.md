@@ -1,2 +1,6 @@
 # keras_IMDB_binary_classification
 IMDB_binary_classification
+
+深度學習基礎應用
+
+使用IMDB做正負評之二元分類
